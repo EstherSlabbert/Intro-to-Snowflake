@@ -366,4 +366,4 @@ Why use Snowflake?
 - Seamless Data Sharing: Snowflake enables secure data sharing within and outside an organisation without the need to move or copy data, fostering collaboration. (live data sharing) (robust security features include end-to-end encryption, comliance with data regulations like GDPR and HIPAA + features like role-based access control)
 - Broad integration: Snowflake integrates well with various data integration, BI, and analytics tools, making it easier to build a comprehensive data analytics stack.
 - Low administrative overhead: With automatic tuning and resource allocation, Snowflake reduces the need for manual interventions and continuous optimisations.
-- Cost eficiency: With pay-as-you-go pricing, organisations can manage their expenses effectively based on their actual usage, avoiding unnecessary costs associated with provisioning and maintaining infrastructure.
+- Cost efficiency: With pay-as-you-go pricing, organisations can manage their expenses effectively based on their actual usage, avoiding unnecessary costs associated with provisioning and maintaining infrastructure.
